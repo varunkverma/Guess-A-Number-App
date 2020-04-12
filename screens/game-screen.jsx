@@ -8,6 +8,7 @@ import {
   FlatList,
   Dimensions,
 } from "react-native";
+import { ScreenOrientation } from "expo";
 import { Ionicons } from "@expo/vector-icons";
 import DefaultStyles from "../constants/default-styles";
 import NumberContainer from "../components/number-container.component";
